@@ -1,3 +1,8 @@
+---
+title: Investigador
+description: Agente de investigación y análisis de información
+---
+
 # Investigador
 
-Proyecto en desarrollo.
+Agente de IA para investigación y análisis de información.
